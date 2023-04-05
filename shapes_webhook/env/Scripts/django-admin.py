@@ -1,5 +1,4 @@
-#!C:\Users\Asus\Desktop\good-ai-project\Weather_App-with-Python-Django\weather_api\env\Scripts\python.exe
-# When the django-admin.py deprecation ends, remove this script.
+
 import warnings
 
 from django.core import management
